@@ -3,8 +3,10 @@
   "author": "Niklas Metje <hi@niklasmtj.de>",
   "private": false,
   "repository": {
+    "name": "gatsby-theme-julia",
+    "author": "haaaru22 <haaaru2200@gmail.com>",
     "type": "git",
-    "url": "https://github.com/niklasmtj/gatsby-theme-julia.git"
+    "url": "https://github.com/haaaru22/gatsby-theme-julia.git"
   },
   "version": "1.0.1",
   "main": "index.js",
